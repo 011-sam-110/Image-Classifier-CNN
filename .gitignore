@@ -2,3 +2,8 @@
 *.log
 *.txt
 noTrack/
+# ART lab
+!art_lab/requirements.txt
+art_lab/out/
+.venv-art/
+__pycache__/
